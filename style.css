@@ -1,0 +1,55 @@
+
+.logo-container{
+    background-color: black;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.form-special{
+    background-color: black;
+    font-family: 'Dosis', sans-serif;
+}
+
+.information{
+    background-color: black;
+    font-family: 'Dosis', sans-serif;
+}
+
+.navigation{
+    background-color: rgb(240, 232, 232);
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.brand-name{
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+}
+/* .images{
+    border: thistle;
+    display: inline;
+    animation-name: myImages;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+} */
+
+.display-img{
+    width: 100%;
+    height: auto;
+}
+
+.underline{
+    border-bottom: solid yellowgreen;
+    width: auto;
+ }
+ 
+ .price-tags{
+    background-color: rgb(240, 232, 232);
+ }
+
+ .button-class{
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+ }
