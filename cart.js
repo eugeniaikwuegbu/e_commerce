@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
 let html = '';
 getItems.forEach( value =>{
     html += `
-    <div class="cart-container mx-auto">
+    <div class="cart-container mx-auto mb-3">
          <button class="btn btn-danger btn-sm float-right mt-2 mr-1">X</button>
          <div class="checkout">
             <div class="ml-2"><img src=${value.image} class="cart-image my-2" alt=""></div>
